@@ -5,19 +5,19 @@ I started coding since late 2019, but never fully immerse myself in the realm of
 <hr />
 
 <strong>Lesson 01</strong><br />
-Introducing..Git!<br />
+<a href="01_introducing_git.md">Introducing..Git!</a><br />
 
 <strong>Lesson 02</strong><br />
-Installation & Setup<br />
+<a href="02_installation_and_setup.md">Installation & Setup</a><br />
 
 <strong>Lesson 03</strong><br />
-The Very Basics of Git: Adding & Committing<br />
+<a href="03_basics_of_git_adding_and_committing.md">The Very Basics of Git: Adding & Committing</a><br />
 
 <strong>Lesson 04</strong><br />
-Commits in Detail (and related topics)<br />
+<a href="04_commits_in_detail.md">Commits in Detail (and related topics)</a><br />
 
 <strong>Lesson 05</strong><br />
-Working with Branches<br />
+<a href="05_working_with_branches.md">Working with Branches</a><br />
 
 <strong>Lesson 06</strong><br />
 Merging Branches, oh boy!<br />
