@@ -5,7 +5,7 @@
 Git is (primarily) a Terminal tool<br />
 Git was created as command-line tool. To use it, we run various git commands in a Unix shell. This is not the most user friendly experience, but it's at the very core of Git!<br />
 The Rise of GUI's<br />
-Over the last few years, companies have created graphical user interfaces for Git that allow people to use Git without having to be a command-line expert. Popular Git GUI's include:<br />
+Over the last few years, companies have created graphical user interfaces for Git that allow people to use Git without having to be a command-line expert. Popular Git <a href="https://git-scm.com/downloads/guis">GUI's</a> include:<br />
 
 <ul>   
     <li>Github Desktop</li>

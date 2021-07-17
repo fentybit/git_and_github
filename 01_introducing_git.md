@@ -7,7 +7,7 @@ Version control systems generally allow users to revisit earlier versions of the
 
 ## Git is just one VCS
 
-Git is just one of the many version control systems available today. Other well-known ones include Subversion, CVS and Mercurial. They all have similar goals, but vary significantly in how they achieve those goals. Fortunately, we only need to care about Git because it is the clear "winner".
+<a href="https://git-scm.com/">Git</a> is just one of the many version control systems available today. Other well-known ones include Subversion, CVS and Mercurial. They all have similar goals, but vary significantly in how they achieve those goals. Fortunately, we only need to care about Git because it is the clear "winner".
 
 ## Git helps us...
 
@@ -37,9 +37,9 @@ Torvalds referred to Git as "the stupid content tracker" while he was working on
 
 <strong>Engineers & Coders.</strong> From massive tech giants like Facebook and Google to the tiniest of startups, developers across the globe use Git. If you plan on becoming a developer, Git is a must-have skill.<br />
 <strong>Tech-Adjacent Roles.</strong> Many people in non-developer roles end up learning the basics of Git to collaborate with their coworkers. Designers in particular often need to work with Git.<br />
-<strong>Governments.</strong> In recent years, governments have started using Git to manage the drafting of laws. Washington DC City council uses Git & GitHub to publish its laws. Citizens have even found and fixed typos collaboratively using Git!<br />
+<strong><a href="https://government.github.com/community/">Governments.</a></strong> In recent years, governments have started using Git to manage the drafting of laws. Washington DC City council uses Git & GitHub to publish its laws. Citizens have even found and fixed typos collaboratively using Git!<br />
 <strong>Scientists.</strong> Git is commonly used by research teams at universities and agencies around the world to manage code, data sets, and more. Git and GitHub is especially powerful in the peer-reviewed world of science and research.<br />
-<strong>Writers.</strong> Some writers love using Git to manage drafts of complex novels, screenplays, or other works with lots of moving parts and constant changes across multiple files. In particular, Git is gaining popularity for use in collaborative textbook writing with multiple authors.<br />
+<strong><a href="https://github.com/HoTT/book">Writers.</a></strong> Some writers love using Git to manage drafts of complex novels, screenplays, or other works with lots of moving parts and constant changes across multiple files. In particular, Git is gaining popularity for use in collaborative textbook writing with multiple authors.<br />
 <strong>Anyone Really.</strong> People find very creative uses for Git ranging from keeping a daily diary to drafting PhD theses to tracking changes to photoshop files. At least one composer writes his symphonies using Git!<br />
 
 ## Git !== GitHub
