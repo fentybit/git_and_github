@@ -20,7 +20,7 @@ I started coding since late 2019, but never fully immerse myself in the realm of
 <a href="05_working_with_branches.md">Working with Branches</a><br />
 
 <strong>Lesson 06</strong><br />
-Merging Branches, oh boy!<br />
+<a href="06_merging_branches.md">Merging Branches, oh boy!</a><br />
 
 <strong>Lesson 07</strong><br />
 Comparing Changes with Git Diff<br />
