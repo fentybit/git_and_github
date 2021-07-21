@@ -23,7 +23,7 @@ I started coding since late 2019, but never fully immerse myself in the realm of
 <a href="06_merging_branches.md">Merging Branches, oh boy!</a><br />
 
 <strong>Lesson 07</strong><br />
-Comparing Changes with Git Diff<br />
+<a href="07_comparing_changes_with_git_diff.md">Comparing Changes with Git Diff</a><br />
 
 <strong>Lesson 08</strong><br />
 The Ins and Outs of Stashing<br />
