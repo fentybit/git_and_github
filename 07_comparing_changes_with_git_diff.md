@@ -46,6 +46,7 @@ git diff --staged [filename]
 ## Comparing Changes Across Branches
 
 `git diff branch1..branch2` or `git diff branch1 branch2` will list the changes between the tips of branch1 and branch2.
+`git diff branch1 branch2 [filename]` will list the changes in `[filename]` comparing `branch1` and `branch2`.
 
 ## Comparing Changes Across Commits
 
