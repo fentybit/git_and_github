@@ -29,7 +29,7 @@ I started coding since late 2019, but never fully immerse myself in the realm of
 <a href="08_the_ins_and_outs_of_stashing.md">The Ins and Outs of Stashing</a><br />
 
 <strong>Lesson 09</strong><br />
-Undoing Changes & Time Traveling<br />
+<a href="09_undoing_changes_and_time_traveling.md">Undoing Changes & Time Traveling</a><br />
 
 <strong>Lesson 10</strong><br />
 GitHub: The Basics<br />
