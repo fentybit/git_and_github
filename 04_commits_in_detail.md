@@ -25,7 +25,8 @@ Though the Git docs suggest using present-tense imperative messages, many develo
 ## Fixing Mistakes with Amend
 
 <strong>Amending Commits</strong><br />
-Suppose you just made a <a href="https://git-scm.com/docs/git-commit">commit</a> and then realized you forgot to include a file! Or, maybe you made a typo in the commit message that you want to correct. Rather than making a brand new separate commit, you can "redo" the previous commit using the `--amend` option.
+Suppose you just made a commit and then realized you forgot to include a file! Or, maybe you made a typo in the commit message that you want to correct. Rather than making a brand new separate commit, you can "redo" the previous commit using the `--amend` option.<br />
+<a href="https://git-scm.com/docs/git-commit">Git Commit Documentation</a><br />
 
 ```
 git commit -m "some commit"
@@ -36,7 +37,8 @@ git commit --amend
 ## Ignoring Files with `.gitignore`
 
 <strong>Ignoring Files</strong><br />
-We can tell Git which files and directories to <a href="https://git-scm.com/docs/gitignore">ignore</a> in a given repository, using a `.gitignore` file. This is useful for files you know you NEVER want to commit, including:<br />
+We can tell Git which files and directories to ignore in a given repository, using a `.gitignore` file. This is useful for files you know you NEVER want to commit, including:<br />
+<a href="https://git-scm.com/docs/gitignore">Git Ignore Documentation</a><br />
 
 <ul>
   <li>Secrets, API keys, credentials, etc.</li>

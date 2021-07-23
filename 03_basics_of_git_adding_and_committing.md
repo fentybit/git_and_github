@@ -11,9 +11,11 @@ git log
 
 ## Git Init and Git Status
 
-`git status` gives information on the <a href="https://git-scm.com/docs/git-status">current status</a> of a git repository and its contents. It's very useful, but at the moment we don't have any repos to check the status of.<br />
+`git status` gives information on the current status of a git repository and its contents. It's very useful, but at the moment we don't have any repos to check the status of.<br />
+<a href="https://git-scm.com/docs/git-status">Git Status Documentation</a><br />
 
-Use `git init` to create a <a href="https://git-scm.com/docs/git-init">new git</a> repository. Before we can do anything git-related, we must initialize a repo first! This is something you do once per project. Initialize the repo in the top-level folder containing your project.
+Use `git init` to create a new git repository. Before we can do anything git-related, we must initialize a repo first! This is something you do once per project. Initialize the repo in the top-level folder containing your project.<br />
+<a href="https://git-scm.com/docs/git-init">Git Init Documentation</a><br />
 
 ## The Mysterious `.git` Folder
 
@@ -36,7 +38,8 @@ Commit everything that was previously added.<br />
 ## Staging Changes with Git Add
 
 <strong>Adding</strong><br />
-We use the <a href="https://git-scm.com/docs/git-add">git add</a> command to stage changes to be committed. It's a way of telling Git, "please include this change in our next commit". Use `git add` to add specific files to the staging area. Separate files with spaces to add multiple at once.
+We use the git add command to stage changes to be committed. It's a way of telling Git, "please include this change in our next commit". Use `git add` to add specific files to the staging area. Separate files with spaces to add multiple at once.<br />
+<a href="https://git-scm.com/docs/git-add">Git Add Documentation</a><br />
 
 ```
 git add file1 file2
@@ -46,7 +49,8 @@ You can use `git add .` to stage all changes at once.
 
 ## Git Commit
 
-We use the `git commit` command to actually <a href="https://git-scm.com/docs/git-commit">commit</a> changes from the staging area. When making a commit, we need to provide a commit message that summarizes the changes and work snapshotted in the commit.<br />
+We use the `git commit` command to actually commit changes from the staging area. When making a commit, we need to provide a commit message that summarizes the changes and work snapshotted in the commit.<br />
+<a href="https://git-scm.com/docs/git-commit">Git Commit Documentation</a><br />
 
 ```
 git commit

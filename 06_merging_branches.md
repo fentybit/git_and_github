@@ -5,6 +5,7 @@
 <strong>Merging</strong><br />
 Branching makes it super easy to work within self-contained contexts, but often we want to incorporate changes from one branch into another! We can do this using the `git merge` command.<br />
 <a href="https://git-scm.com/docs/git-merge">Git Merge Documentation</a><br />
+<br />
 The merge command can sometimes confuse students early on. Remember these two merging concepts:
 
 <ul>

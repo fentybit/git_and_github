@@ -10,7 +10,8 @@
 ## Stashing Basics: Git Stash Save & Pop
 
 <strong>Stashing</strong><br />
-Git provides an easy way of <a href="https://git-scm.com/docs/git-stash">stashing</a> these uncommitted changes so that we can return to them later, without having to make unnecessary commits.
+Git provides an easy way of stashing these uncommitted changes so that we can return to them later, without having to make unnecessary commits.<br />
+<a href="https://git-scm.com/docs/git-stash">Git Stash Documentation</a>
 
 ```
 git stash

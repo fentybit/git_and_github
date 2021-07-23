@@ -4,7 +4,9 @@
 
 <strong>Git Diff</strong><br />
 We can use the `git diff` command to view changes between commits, branches, files, our working directory, and more! We often use git diff alongside commands like `git status` and `git log`, to get a better picture of a repository and how it has changed over time.<br />
-Without additional options, `git diff` lists all the changes in our working directory that are NOT staged for the next commit, <a href="https://git-scm.com/docs/git-diff">comparing staging area and working directory</a>.<br />
+Without additional options, `git diff` lists all the changes in our working directory that are NOT staged for the next commit, comparing staging area and working directory.<br />
+<a href="https://git-scm.com/docs/git-diff">Git Diff Documentation</a>
+<br />
 
 <strong>Compared Files</strong><br />
 For each comparison, Git explains which files it is comparing. Usually this is two versions of the same file. Git also declares one file as "A" and the other as "B".<br />

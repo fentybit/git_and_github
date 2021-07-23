@@ -32,7 +32,7 @@ I started coding since late 2019, but never fully immerse myself in the realm of
 <a href="09_undoing_changes_and_time_traveling.md">Undoing Changes & Time Traveling</a><br />
 
 <strong>Lesson 10</strong><br />
-GitHub: The Basics<br />
+<a href="10_github_the_basics.md">GitHub: The Basics</a><br />
 
 <strong>Lesson 11</strong><br />
 Fetching and Pulling<br />

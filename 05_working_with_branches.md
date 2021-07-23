@@ -36,7 +36,8 @@ In 2020, GitHub renamed the default branch from <strong>master</strong> to <stro
 <strong>HEAD</strong><br />
 We will often come across the term HEAD in Git. HEAD is simply a pointer that refers to the current "location" in your repository. It points to a particular branch reference. So far, HEAD always points to the latest commit you made on the master branch, but soon we will see that we can move around and HEAD will change!<br />
 <strong>Viewing all branches with Git Branch</strong><br />
-Use `git branch` to view your <a href="https://git-scm.com/docs/git-branch">existing branches</a>. The default branch in every git repo is master, though you can configure this. Look for the \* which indicates the branch you are currently on.
+Use `git branch` to view your existing branches. The default branch in every git repo is master, though you can configure this. Look for the \* which indicates the branch you are currently on.<br />
+<a href="https://git-scm.com/docs/git-branch">Git Branch Documentation</a>
 
 ```
 git branch
@@ -52,12 +53,14 @@ git branch <branch-name>
 ```
 
 <strong>Switching Branches</strong><br />
-Once you have created a new branch, use `git switch <branch-name>` to <a href="https://git-scm.com/docs/git-switch">switch</a> to it. The HEAD will now switch to this selected branch.
+Once you have created a new branch, use `git switch <branch-name>` to switch to it. The HEAD will now switch to this selected branch.<br />
+<a href="https://git-scm.com/docs/git-switch">Git Switch Documentation</a>
 
 ## Another Option: Git Checkout vs. Git Switch
 
 <strong>Another way of switching??</strong><br />
-Historically, we used `git checkout <branch-name>` to switch branches. <a href="https://git-scm.com/docs/git-checkout">This still works.</a> The `checkout` command does a million additional things, so the decision was made to add a standalone switch command which is much simpler. You will see older tutorials and docs using checkout rather than switch. Both now work.
+Historically, we used `git checkout <branch-name>` to switch branches. This still works. The `checkout` command does a million additional things, so the decision was made to add a standalone switch command which is much simpler. You will see older tutorials and docs using checkout rather than switch. Both now work.<br />
+<a href="https://git-scm.com/docs/git-checkout">Git Switch Documentation</a><br />
 
 ```
 git checkout <branch-name>

@@ -35,8 +35,8 @@ git checkout HEAD~1
 ```
 
 `git checkout` supports a slightly odd syntax for referencing previous commits relative to a particular commit.<br />
-HEAD~1 refers to the commit before HEAD (parent)<br />
-HEAD~2 refers to 2 commits before HEAD (grandparent)<br />
+`HEAD~1` refers to the commit before HEAD (parent)<br />
+`HEAD~2` refers to 2 commits before HEAD (grandparent)<br />
 
 ## Discarding Changes with Git Checkout
 
@@ -105,7 +105,6 @@ git revert <commit-hash>
 `git revert` is similar to `git reset` in that they both "undo" changes, but they accomplish it in different ways.<br />
 `git reset` actually moves the branch pointer backwards, eliminating commits.<br />
 `git revert` instead creates a brand new commit which reverses / undos the changes from a commit. Because it results in a new commit, you will be prompted to enter a commit message.<br />
-
 <a href="https://git-scm.com/docs/git-revert">Git Revert Documentation</a><br />
 
 <strong>Which one should I use?</strong><br />
