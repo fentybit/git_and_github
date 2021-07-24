@@ -35,10 +35,10 @@ I started coding since late 2019, but never fully immerse myself in the realm of
 <a href="10_github_the_basics.md">GitHub: The Basics</a><br />
 
 <strong>Lesson 11</strong><br />
-Fetching and Pulling<br />
+<a href="11_fetching_and_pulling.md">Fetching and Pulling</a><br />
 
 <strong>Lesson 12</strong><br />
-GitHub Grab Bag: Odds & Ends<br />
+<a href="12_odds_and_ends.md">GitHub Grab Bag: Odds & Ends</a><br />
 
 <strong>Lesson 13</strong><br />
 Git Collaboration Workflows<br />

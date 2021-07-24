@@ -40,7 +40,6 @@ It is NOT tied specifically to GitHub. We can use it to clone repository that ar
 <strong>SSH Keys</strong><br />
 You need to be authenticated on GitHub to do certain operations, like pushing up code from your local machine. Your terminal will prompt you every single time for your GitHub email and password, unless..<br />
 You generate and configure an SSH key! Once configured, you can connect to GitHub without having to supply your username/password.<br />
-
 <a href="https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh">Connecting to GitHub with SSH</a><br />
 
 ## Creating Our First GitHub Repo!
