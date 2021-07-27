@@ -56,7 +56,7 @@ I started coding since late 2019, but never fully immerse myself in the realm of
 [Git Behind the Scenes - Hashing and Objects](17_git_behind_the_scenes.md)<br />
 
 **Lesson 18**<br />
-[The Power of Reflogs - Retrieving "Lost" Work]<br />
+[The Power of Reflogs - Retrieving "Lost" Work](18_the_power_of_reflogs.md)<br />
 
 **Lesson 19**<br />
 [Writing Custom Git Aliases]<br />
