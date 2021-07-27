@@ -53,7 +53,7 @@ I started coding since late 2019, but never fully immerse myself in the realm of
 [Git Tags: Marking Important Moments in History](16_cleaning_up_history_with_interactive_rebase.md)<br />
 
 **Lesson 17**<br />
-[Git Behind the Scenes - Hashing and Objects]<br />
+[Git Behind the Scenes - Hashing and Objects](17_git_behind_the_scenes.md)<br />
 
 **Lesson 18**<br />
 [The Power of Reflogs - Retrieving "Lost" Work]<br />
