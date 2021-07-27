@@ -50,7 +50,7 @@ I started coding since late 2019, but never fully immerse myself in the realm of
 [Cleaning Up History with Interactive Rebase](15_cleaning_up_history_with_interactive_rebase.md)<br />
 
 **Lesson 16**<br />
-[Git Tags: Marking Important Moments in History]<br />
+[Git Tags: Marking Important Moments in History](16_cleaning_up_history_with_interactive_rebase.md)<br />
 
 **Lesson 17**<br />
 [Git Behind the Scenes - Hashing and Objects]<br />
